@@ -30,5 +30,7 @@ class CricketScore{
 
 }
 
+main()
+
 console.log(CricketScore.century.getValue())
 console.log(CricketScore.halfcentury.getName())
