@@ -46,4 +46,5 @@ function main(): void{
 
 
 main()
-
+// okay to without mein pehle engine then car mein engine daala dn then through car call kar rhe
+// par with wale mein we create a function inside car to start engine and we call that function only lol 
